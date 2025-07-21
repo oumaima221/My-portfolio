@@ -953,8 +953,8 @@ export default function Portfolio() {
                         <TestTube className="w-8 h-8 text-white" />
                       </motion.div>
                       <div>
-                        <h3 className="text-3xl font-bold text-slate-800 dark:text-white">
-                          🧪 Anomaly Detection Platform
+                      <h3 className="text-3xl font-bold text-slate-800 dark:text-white">
+                          🧪 Test Report Platform
                         </h3>
                         <p className="text-orange-600 dark:text-orange-400 font-medium">
                           AI Developer Intern @ KPIT Technologies
@@ -963,8 +963,7 @@ export default function Portfolio() {
                     </div>
 
                     <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed">
-                      Developed an intelligent anomaly detection and test automation platform for Volkswagen's
-                      automotive systems, streamlining quality assurance processes.
+                      Developed a comprehensive test report platform for Volkswagen's automotive systems, enhancing quality assurance and reporting efficiency.
                     </p>
 
                     <div className="space-y-4">
