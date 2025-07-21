@@ -729,7 +729,7 @@ export default function Portfolio() {
                     },
                     {
                       icon: TestTube,
-                      title: "🧪 Test Automation Platform",
+                      title: "🧪 Test Report Platform",
                       desc: "Enterprise solutions for Volkswagen",
                       color: "from-orange-500 to-red-500",
                     },
